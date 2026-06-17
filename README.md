@@ -28,15 +28,15 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arturr1001&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturr1001&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 🐍 Snake com seus commits
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Arturr1001/Arturr1001/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
